@@ -2,7 +2,7 @@
 
 This repository contains a Node.js application for web scraping public announcements from a website and performing CRUD operations (Create, Read, Update, Delete) on the scraped data using a MongoDB database. The application allows you to scrape data from a specific website, store it in a MongoDB database, export the data in CSV or Excel format, create new announcements, update existing announcements, retrieve announcements by ID, and delete announcements by ID.
 
-## Prerequisites
+## Prerequisitesm 
 
 Before you begin, ensure you have the following installed on your machine:
 
